@@ -9,9 +9,10 @@ A list of projects is already added to this open-quantum-hardware list, but feel
 
 ## Blueprints and hardware design toolkits
 - [pyEPR](https://pyepr-docs.readthedocs.io/) is standing out for superconducting qubits as a platform to design quantum processors. Originally developed at Yale, it is now used by tens of research groups in Northern America, Europe, and beyond. 
-- [Qiskit Metal](https://github.com/Qiskit/qiskit-metal) - Quantum hardware design and analysis for superconducting qubits.
+- [Qiskit Metal](https://github.com/Qiskit/qiskit-metal) - Quantum hardware design and analysis for superconducting qubits
 - [KQCircuits](https://github.com/iqm-finland/KQCircuits) - KLayout Python library for integrated quantum circuit design
-- [PALACE](https://github.com/awslabs/palace): 3D finite element solver for computational electromagnetics
+- [PALACE](https://github.com/awslabs/palace) - 3D finite element solver for computational electromagnetics
+- [SQuADDS](https://github.com/LFL-Lab/SQuADDS) - Validated database of superconducting qubit and device designs
 
 ## Remotely-controlled laboratories 
 - Chris Monroe’s article highlighted the implementation of software for remote labs.
